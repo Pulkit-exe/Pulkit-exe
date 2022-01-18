@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Pulkit-exe
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on any python related projects
 - 📫 How to reach me via mail, 
 pulkit9463@gmail.com
 
