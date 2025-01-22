@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Pulkit-exe
+- 👋 Hi, I’m Pulkit Rustagi
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on any python related projects
